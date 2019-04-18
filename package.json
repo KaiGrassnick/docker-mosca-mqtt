@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node mqttBroker.js"
+    "start": "node mqttBroker.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kai Grassnick",
